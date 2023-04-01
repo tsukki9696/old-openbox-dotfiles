@@ -6,4 +6,8 @@
 - **Images**: [pokemon-colorscripts](https://github.com/Findarato/pokemon-colorscripts)
 - **Video Player**: [ani-cli](https://github.com/pystardust/ani-cli)
 
+Fonts used:
+- Iosevka Nerd Font
+- System-ui Regular
+
 The Openbox theme used is [Walbox](https://github.com/edisile/walbox), colors were taken from [pywal](https://github.com/dylanaraps/pywal). Toolbar is a modified version of [polybar-themes's Shades theme](https://github.com/adi1090x/polybar-themes)
